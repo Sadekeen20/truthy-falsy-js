@@ -1,5 +1,3 @@
-// console.log()
-
 const age=-4;
 if(age){
     console.log("true");
